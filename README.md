@@ -37,6 +37,7 @@ A API deve conter as seguintes funcionalidades:
 
 ### Especificações técnicas
 
+- Criar um fork do projeto
 - Seu projeto deve conter um arquivo README com a explicação das tecnologias utilizadas e as instruções para rodar.
 - Descrever suas facilidades e dificuldades encontradas no processo de desenvolvimento.
 
@@ -64,7 +65,8 @@ A aplicação pode ser executada usando `java -jar target/teste-dev-pleno-1.0.0-
 `contato@eprecise.com.br` com título `Teste para Desenvolvedor Pleno - Dúvida`
 
 ### Envio da prova?
-`contato@eprecise.com.br` com título `Teste para Desenvolvedor Pleno - Finalização`
+`contato@eprecise.com.br` com título `Teste para Desenvolvedor Pleno - Finalização`. 
+Incluir link com fork do repositório. 
 
 ### Data Limite?
 03/09/2020
