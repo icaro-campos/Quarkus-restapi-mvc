@@ -27,13 +27,12 @@
 
 A API deve conter as seguintes funcionalidades:
 
-1. Autenticação: Bearer JWT
-2. Estados: GET (pesquisa com paginação)/ POST (inserir) / PUT (atualizar) / DELETE (remover)
-3. Estados: GET número de registros
-4. Cidades: GET (pesquisa com paginação)/ POST (inserir) / PUT (atualizar) / DELETE (remover)
-5. Cidades: GET por estado (pesquisa com paginação)
-6. Cidades: GET por nome (pesquisa com paginação, contendo o nome a partir de 3 caracteres)
-7. Cidades: GET número de registros
+1. Estados: GET (pesquisa com paginação)/ POST (inserir) / PUT (atualizar) / DELETE (remover)
+2. Estados: GET número de registros
+3. Cidades: GET (pesquisa com paginação)/ POST (inserir) / PUT (atualizar) / DELETE (remover)
+4. Cidades: GET por estado (pesquisa com paginação)
+5. Cidades: GET por nome (pesquisa com paginação, contendo o nome a partir de 3 caracteres)
+6. Cidades: GET número de registros
 
 ### Especificações técnicas
 
