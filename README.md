@@ -37,7 +37,6 @@ A API deve conter as seguintes funcionalidades:
 ### Especificações técnicas
 
 - Criar um fork do projeto
-- Seu projeto deve conter um arquivo README com a explicação das tecnologias utilizadas e as instruções para rodar.
 - Descrever suas facilidades e dificuldades encontradas no processo de desenvolvimento.
 
 ## Pré-configurações (informativo)
