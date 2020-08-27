@@ -51,9 +51,9 @@ Você pode rodar sua aplicação em modo desenvolvimento (que permite live codin
 ./mvnw quarkus:dev
 ```
 
-### Enpacotando e rodando a aplicação
+### Empacotando e rodando a aplicação
 
-A aplicação pode ser enpacotada usando `./mvnw package`.
+A aplicação pode ser empacotada usando `./mvnw package`.
 O artefato resultante do empacotamento é o arquivo `teste-dev-pleno-1.0.0-SNAPSHOT-runner.jar` no diretório `/target`.
 Esteja ciente que não é gerado um _über-jar_, as dependências são copiadas no diretório `target/lib`.
 
