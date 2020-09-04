@@ -67,4 +67,4 @@ A aplicação pode ser executada usando `java -jar target/teste-dev-pleno-1.0.0-
 Incluir link com fork do repositório. 
 
 ### Data Limite?
-03/09/2020
+14/09/2020
