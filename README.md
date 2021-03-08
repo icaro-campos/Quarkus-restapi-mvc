@@ -66,5 +66,5 @@ A aplicação pode ser executada usando `java -jar target/teste-dev-pleno-1.0.0-
 `contato@eprecise.com.br` com título `Teste para Desenvolvedor Pleno - Finalização`. 
 Incluir link com fork do repositório. 
 
-### Data Limite?
-14/09/2020
+### Prazo?
+1 semana após o recebimento do teste.
