@@ -1,4 +1,4 @@
-# Teste para Desenvolvedor Pleno
+# Teste para Desenvolvedor
 
 [![e-Precise Logo](https://www.e-precise.com.br/assets/images/logo_com_sombra.png)](https://www.e-precise.com.br/)
 
@@ -52,18 +52,18 @@ Você pode rodar sua aplicação em modo desenvolvimento (que permite live codin
 ### Empacotando e rodando a aplicação
 
 A aplicação pode ser empacotada usando `./mvnw package`.
-O artefato resultante do empacotamento é o arquivo `teste-dev-pleno-1.0.0-SNAPSHOT-runner.jar` no diretório `/target`.
+O artefato resultante do empacotamento é o arquivo `teste-dev-1.0.0-SNAPSHOT-runner.jar` no diretório `/target`.
 Esteja ciente que não é gerado um _über-jar_, as dependências são copiadas no diretório `target/lib`.
 
-A aplicação pode ser executada usando `java -jar target/teste-dev-pleno-1.0.0-SNAPSHOT-runner.jar`.
+A aplicação pode ser executada usando `java -jar target/teste-dev-1.0.0-SNAPSHOT-runner.jar`.
 
 ## Contato e Informações
 
 ### Dúvidas?
-`contato@eprecise.com.br` com título `Teste para Desenvolvedor Pleno - Dúvida`
+`contato@eprecise.com.br` com título `Teste para Desenvolvedor - Dúvida`
 
 ### Envio da prova?
-`contato@eprecise.com.br` com título `Teste para Desenvolvedor Pleno - Finalização`. 
+`contato@eprecise.com.br` com título `Teste para Desenvolvedor - Finalização`. 
 Incluir link com fork do repositório. 
 
 ### Prazo?
