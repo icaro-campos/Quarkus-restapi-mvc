@@ -1,6 +1,6 @@
-package br.com.eprecise.dto;
+package br.com.api.dto;
 
-import br.com.eprecise.entities.State;
+import br.com.api.entities.State;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;

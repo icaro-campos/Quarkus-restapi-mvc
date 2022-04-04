@@ -1,4 +1,4 @@
-package br.com.eprecise.entities;
+package br.com.api.entities;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 

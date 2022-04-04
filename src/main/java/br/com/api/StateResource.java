@@ -1,7 +1,7 @@
-package br.com.eprecise;
+package br.com.api;
 
-import br.com.eprecise.dto.StateDTO;
-import br.com.eprecise.service.StateService;
+import br.com.api.dto.StateDTO;
+import br.com.api.service.StateService;
 import io.quarkus.panache.common.Page;
 
 import javax.inject.Inject;

@@ -1,7 +1,7 @@
-package br.com.eprecise.service;
+package br.com.api.service;
 
-import br.com.eprecise.dto.StateDTO;
-import br.com.eprecise.entities.State;
+import br.com.api.dto.StateDTO;
+import br.com.api.entities.State;
 import io.quarkus.panache.common.Page;
 
 import javax.enterprise.context.ApplicationScoped;
